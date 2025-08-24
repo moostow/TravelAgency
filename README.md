@@ -2,6 +2,10 @@
 
 # A Travel Agency Management System.
 
+# Login: 1
+# Password: 1
+
+
 ## Run Instructions (Windows)
 1. **Download and install Java (17 or later) from [Adoptium](https://adoptium.net) or Oracle.**
 
