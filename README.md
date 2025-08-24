@@ -2,8 +2,8 @@
 
 # A Travel Agency Management System.
 
-# Login: 1
-# Password: 1
+### Login: 1
+### Password: 1
 
 
 ## Run Instructions (Windows)
